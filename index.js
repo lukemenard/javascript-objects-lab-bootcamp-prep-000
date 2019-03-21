@@ -19,4 +19,4 @@ function deleteFromObjectByKey(object, key) {
   delete newObj.key
   return newObj
 }
-deleteFromObjectByKey(object, key)
+deleteFromObjectByKey(obj, 'prop')
