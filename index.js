@@ -20,3 +20,5 @@ function deleteFromObjectByKey(object, key) {
   return newObj
 }
 deleteFromObjectByKey(obj, prop)
+
+function 
